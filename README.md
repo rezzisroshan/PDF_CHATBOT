@@ -14,7 +14,7 @@ It’s built with LangChain, ChromaDB, Hugging Face embeddings, and FLAN-T5, wit
 - Identifies **tools or equipment** mentioned in the recipe.
 - Finds **cooking or preparation times**.
 - Answers other recipe-specific questions.
-- Works entirely from the provided recipe PDF — no outside guessing.
+- Works entirely from the provided recipe PDF, no outside guessing.
 
 ---
 
